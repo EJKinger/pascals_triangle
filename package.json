@@ -1,0 +1,24 @@
+{
+  "name": "pascals_triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pascal.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJKinger/pascals_triangle.git"
+  },
+  "author": "Eric King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EJKinger/pascals_triangle/issues"
+  },
+  "homepage": "https://github.com/EJKinger/pascals_triangle#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "jquery": "^2.2.0",
+    "mocha": "^2.3.4"
+  }
+}
